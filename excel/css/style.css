@@ -1,0 +1,74 @@
+html{
+background:lightgrey
+}
+body{
+	background:white;
+	margin:5em;
+	padding:20em;
+	box-shadow: #555 0px 0px 18px;
+	-moz-box-shadow: #555 0px 0px 18px;
+	-webkit-box-shadow: #555 0px 0px 18px;
+	text-align:center;
+}
+#one{
+	box-shadow: #555 0px 0px 18px;
+	-moz-box-shadow: #555 0px 0px 18px;
+	-webkit-box-shadow: #555 0px 0px 18px;
+	padding:1em;
+	background:grey;
+	font-size:14;
+	text-align:center;
+	margin:1em auto;
+	margin-top: -15em;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#two{
+	box-shadow: #555 0px 0px 18px;
+	-moz-box-shadow: #555 0px 0px 18px;
+	-webkit-box-shadow: #555 0px 0px 18px;
+	padding:2em;
+	background:grey;
+	font-size:14;
+	text-align:center;
+	margin:1em auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#three{
+	box-shadow: #555 0px 0px 18px;
+	-moz-box-shadow: #555 0px 0px 18px;
+	-webkit-box-shadow: #555 0px 0px 18px;
+	padding:2em;
+	background:grey;
+	font-size:14;
+	text-align:center;
+	margin:1em auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#four{
+	box-shadow: #555 0px 0px 18px;
+	-moz-box-shadow: #555 0px 0px 18px;
+	-webkit-box-shadow: #555 0px 0px 18px;
+	padding:2em;
+	background:grey;
+	font-size:14;
+	text-align:center;
+	margin:1em auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+legend
+{
+{font-weight:bold}
+}
+
+
+
+
+
